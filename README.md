@@ -2,6 +2,8 @@
 
 Welcome to my GitHub Profile! I'm a new graduate from the University of Illinois, Urbana-Champaign with a double major in Computer Science and Statistics and Cognitive Science. 🧠💻 Understanding how data and human cognition intersect allows me to gain unique insights and perspectives in my data analysis projects. I love exploring the fascinating world of data and uncovering valuable insights. I'm particularly interested in exploring predictive modeling and data visualization to gain deeper insights into complex datasets.
 
+**Education:** Bachelor of Science (B.S.) in Statistics and Computer Science, and Brain and Cognitive Science from the University of Illinois, Urbana-Champaign, 2023.
+
 ## 💪 Skills
 
 - Programming Languages: Python, Java, R, C/C++
@@ -23,8 +25,6 @@ I'm constantly expanding my knowledge in the field of data science. Currently, I
 ## ⚡ Fun fact
 
 Fun fact: I love exploring the intersection of artificial intelligence and cognitive science. Thinking about what mechanisms give rise to conscious experience really fascinates me!
-
-🎓 **Education:** Bachelor of Science (B.S.) in Statistics and Computer Science, and Brain and Cognitive Science from the University of Illinois, Urbana-Champaign, 2023.
 
 ## 📫 How to reach me
 
