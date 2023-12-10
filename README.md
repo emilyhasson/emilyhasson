@@ -7,12 +7,10 @@ Welcome to my GitHub Profile! I'm a graduate student of computer science at the 
 ## 💪 Skills
 
 - Programming Languages: Python, Java, R, C/C++
-- Web Development: Flask
 - Machine Learning/Deep Learning
 - Natural Language Processing
 - Databases: SQL, Database Design
 - Data Visualization
-- Microsoft Excel, PowerBI
 
 ## 🔭 I'm currently working on
 
