@@ -1,8 +1,8 @@
 # Hi there, I'm Emily Hasson 👋
 
-Welcome to my GitHub Profile! I'm a new graduate from the University of Illinois, Urbana-Champaign with a double major in Computer Science and Statistics and Cognitive Science. 🧠💻 Understanding how data and human cognition intersect allows me to gain unique insights and perspectives in my data analysis projects. I love exploring the fascinating world of data and uncovering valuable insights. I'm particularly interested in exploring predictive modeling and data visualization to gain deeper insights into complex datasets.
+Welcome to my GitHub Profile! I'm a graduate student of computer science at the University of Illinois. I'm particularly interested in exploring predictive modeling and data visualization to gain deeper insights into complex datasets.
 
-**Education:** I am currently pursuing a Master's degree in Data Science at the University of Illinois at Urbana-Champaign. I also recieved a Bachelor of Science (B.S.) in Statistics and Computer Science, and Brain and Cognitive Science from the University of Illinois in 2023. 
+**Education:** I am currently pursuing a Master's degree in Data Science. I also recieved a Bachelor of Science (B.S.) in Statistics and Computer Science, and Brain and Cognitive Science from the University of Illinois in 2023. 
 
 ## 💪 Skills
 
