@@ -1,16 +1,14 @@
 # Hi there, I'm Emily Hasson 👋
 
-Welcome to my GitHub Profile! I'm a graduate student of computer science at the University of Illinois. I'm particularly interested in exploring predictive modeling and data visualization to gain deeper insights into complex datasets.
-
-**Education:** I am currently pursuing a Master's degree in Data Science. I also recieved a Bachelor of Science (B.S.) in Statistics and Computer Science, and Brain and Cognitive Science from the University of Illinois in 2023. 
+Welcome to my GitHub Profile! I'm a computer science master's student and researcher at the University of Illinois at Urbana-Champaign. My work involves optimizing large language models for complex feature identification. I'm particularly interested in analysis and management of unstructured and semi-structured text data.
 
 ## 💪 Skills
 
 - Programming Languages: Python, Java, R, C/C++
 - Machine Learning/Deep Learning
 - Natural Language Processing
-- Databases: SQL, Database Design
-- Data Visualization
+- Databases: SQL, NoSQL
+- Data Visualization: Matplotlib, PowerBI
 
 ## 🔭 I'm currently working on
 
@@ -18,7 +16,7 @@ I'm currently working as a research assistant for Gies College of Business, wher
 
 ## 🌱 I'm currently learning
 
-I'm constantly expanding my knowledge in the field of data science. Currently, I'm focusing on enhancing my skills in deep learning algorithms and techniques for utilizing LLMs. I'm also exploring cloud computing platforms and their applications in large-scale data processing.
+I am currently exploring the world of webscraping! Some recent projects have included scraping Zillow and Reddit. I'm also expanding my knowledge of cloud computing for large-scale data processing. 
 
 ## ⚡ Fun fact
 
@@ -30,7 +28,7 @@ You can reach out to me via email at [emilyhasson927@gmail.com](mailto:emilyhass
 
 ## 🤝 Let's Connect!
 
-Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or opportunities for collaboration! Let's connect and make an impact with data together! 🌟
+Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or opportunities for collaboration!
 
 
 <!--
