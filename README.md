@@ -9,6 +9,7 @@ Welcome to my GitHub Profile! I'm a computer science master's student and resear
 - Natural Language Processing
 - Databases: SQL, NoSQL
 - Data Visualization: Matplotlib, PowerBI
+- Cloud Technologies: AWS, GCS
 
 ## 🔭 I'm currently working on
 
