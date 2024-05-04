@@ -5,23 +5,26 @@ Welcome to my GitHub Profile! I'm a computer science master's student and resear
 ## 💪 Skills
 
 - Programming Languages: Python, Java, R, C/C++
-- Machine Learning/Deep Learning
+- Machine Learning
 - Natural Language Processing
-- Databases: SQL, NoSQL
+- Statistics
+- Databases
 - Data Visualization: Matplotlib, PowerBI
 - Cloud Technologies: AWS, GCS
 
 ## 🔭 I'm currently working on
 
-I'm currently working as a research assistant for Gies College of Business, where I am processing and classifying text data using a custom fine-tuned LLM and an active learning pipeline.
+I'm currently working as a research assistant in Gies College of Business, where I am processing and classifying text data using a custom fine-tuned LLM and an active learning pipeline.
+
+I also have an exciting narrative analysis project in the works.
 
 ## 🌱 I'm currently learning
 
-I am currently exploring the world of webscraping! Some recent projects have included scraping Zillow and Reddit. I'm also expanding my knowledge of cloud computing for large-scale data processing. 
+I am currently exploring the world of webscraping! Some recent projects have included scraping Zillow and Reddit (don't snitch...). I've also been reading up on deep learning.
 
 ## ⚡ Fun fact
 
-Fun fact: I have two cats named Rumi and Tessa! 🐱
+Fun fact: I have two cats named Rumi and Tessa! 😸
 
 ## 📫 How to reach me
 
