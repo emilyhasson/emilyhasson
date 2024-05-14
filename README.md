@@ -14,7 +14,7 @@ Welcome to my GitHub Profile! I'm a computer science master's student and resear
 
 ## 🔭 I'm currently working on
 
-I'm currently working as a research assistant in Gies College of Business, where I am processing and classifying text data using a custom fine-tuned LLM and an active learning pipeline.
+I'm currently working as a graduate data science intern at The Aerospace Corporation.
 
 I also have an exciting narrative analysis project in the works.
 
