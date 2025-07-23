@@ -1,7 +1,5 @@
 # Hi there, I'm Emily Hasson 👋
 
-I'm a computer science grad student and researcher at the University of Illinois at Urbana-Champaign. My work involves optimizing large language models for complex feature identification. I'm particularly interested in analysis and management of unstructured and semi-structured text data.
-
 ## 📫 How to reach me
 
 You can reach out to me via email at [emilyhasson927@gmail.com](mailto:emilyhasson927@gmail.com). I'm also active on LinkedIn, so you can connect with me [here](https://www.linkedin.com/in/emilyphasson).
