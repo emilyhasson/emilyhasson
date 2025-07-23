@@ -1,7 +1,5 @@
 # Hi there, I'm Emily Hasson 👋
 
-## 📫 How to reach me
-
 You can reach out to me via email at [emilyhasson927@gmail.com](mailto:emilyhasson927@gmail.com). I'm also active on LinkedIn, so you can connect with me [here](https://www.linkedin.com/in/emilyphasson).
 
 <!--
